@@ -1,6 +1,6 @@
 #include ......
 int main()
 {
-int c;
+int c,b;
   printf("Anja Kovacevic 93/24");
 }
